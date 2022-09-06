@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "sumas",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
